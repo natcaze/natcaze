@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello World! 😄
+
+Just here trying to have fun while learning along the way ✨
+
+🔭 I’m currently working as a Software Tester
+⚡ Fun fact: I used to be a biologist
 
 <!--
 **natcaze/natcaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
