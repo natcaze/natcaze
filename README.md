@@ -1,6 +1,8 @@
 ### Hello World! 😄
 
-Just here trying to have fun while learning along the way ✨
+ I have a strong analytical and detailed oriented mind and a cheerful and communicative personality! 🌸
+ 
+ <p>✨ Here trying to have fun while learning along the way ✨</p>
 
 🔭 I’m currently working as a Software Tester 
 <br>
