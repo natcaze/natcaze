@@ -2,7 +2,8 @@
 
 Just here trying to have fun while learning along the way ✨
 
-🔭 I’m currently working as a Software Tester
+🔭 I’m currently working as a Software Tester 
+<br>
 ⚡ Fun fact: I used to be a biologist
 
 <!--
